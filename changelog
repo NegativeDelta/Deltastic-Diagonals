@@ -1,0 +1,15 @@
+1.0
+  - Program created
+
+######
+
+2.0
+  - Added a new option - calculating screen diagonal
+  - Added a "menu"
+
+######
+
+2.1
+  - Uploaded to Github
+  - Translated to English
+  - The program now outputs all values in both inches and centimetres
